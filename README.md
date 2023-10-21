@@ -4,7 +4,7 @@
 
 -----
 
-![Logo](https://drive.google.com/file/d/163gInWtXTB-ec0Sl_r1VZar-W0nHBMGG/view?usp=share_link)
+![Edu Connect]<img src="https://freeimage.host/i/JKFDMXa" alt="Edu Connect Project" style="border: 5px solid blue">
 
 -----
 
