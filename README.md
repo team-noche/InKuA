@@ -17,10 +17,15 @@ The "Educational Tracking Platform for Scholarship Recipients," EduConnect, aims
 
 How does it solve it?
 Our platform offers an innovative solution by effectively and efficiently connecting scholarship students with their support personnel, whether they be mentors, tutors, or educational counselors. The platform provides a range of key features:
+
 🗃 Comprehensive Records: Support personnel can maintain a complete record of their interactions with students, including meetings, advice, and established goals.
+
 📝 Academic Tracking: The platform enables constant monitoring of students' academic progress, including grades, attendance, and progress on projects.
+
 💬🗨 Effective Communication: It facilitates real-time communication between students and support personnel, allowing for the prompt addressing of challenges, immediate assistance in case of health issues or emergencies, and the provision of personalized guidance.
+
 🎯 Goal Setting: Support personnel can help students establish and track academic and personal goals, thereby fostering commitment and growth.
+
 📢 Alerts and Notifications: The platform generates automatic alerts when academic or personal issues are detected, enabling early intervention.
 
 This platform serves as a crucial solution for scholarship students facing displacement when leaving their rural homes to study in cities and reside in student boarding houses. By providing them with personalized and effective support, we are contributing to their successful adaptation to city life while equipping them with the tools to overcome academic obstacles and successfully complete their higher education. We are committed to helping this student population achieve their educational goals and build a bright future.
