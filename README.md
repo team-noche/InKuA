@@ -4,7 +4,7 @@
 
 -----
 
-![Edu Connect]<img src="https://freeimage.host/i/JKFDMXa" alt="Edu Connect Project" style="border: 5px solid blue">
+[![JKFDMXa.md.png](https://iili.io/JKFDMXa.md.png)](https://freeimage.host/i/JKFDMXa)
 
 -----
 
