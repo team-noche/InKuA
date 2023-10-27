@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduConnect - Registro</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlazar CSS -->
+    <style>
+        .header {
+            text-align: center;
+        }
+
+        .logo {
+            border-radius: 50%;
+            width: 100px; 
+            height: 100px; 
+        }
+
+        .slogan {
+            font-size: 18px; 
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header">
+            <img src="Imagenes/Logo.png"  class="logo">
+            <p class="slogan">Bridging Futures, Creating Opportunities</p>
+        </div>
+    </header>
+    <main>
+        <section>
+            <h1>Registro</h1>
+            <!-- Formulario de registro -->
+            <form>
+                <label for="firstName">First name:</label>
+                <input type="text" id="firstName" name="firstName" required>
+                <label for="lastName">Last name:</label>
+                <input type="text" id="lastName" name="lastName" required>
+                <label for="mobileNumber">Movile number:</label>
+                <input type="tel" id="mobileNumber" name="mobileNumber" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="dateOfBirth">Date of birth:</label>
+                <input type="date" id="dateOfBirth" name="dateOfBirth" required>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <label for="confirmPassword">Confirm password:</label>
+                <input type="password" id="confirmPassword" name="confirmPassword" required>
+                <button type="submit">Sing up</button>
+            </form>
+            <!-- Enlace para volver a la página de inicio de sesión -->
+            <p>Already have an account? <a href="login.html">Log in</a></p>
+        </section>
+    </main>
+    <footer>
+    </footer>
+</body>
+</html>
