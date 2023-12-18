@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduConnect - Log in</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlazar CSS -->
+    <style>
+        .header {
+            text-align: center;
+        }
+
+        .logo {
+            border-radius: 50%;
+            width: 100px; 
+            height: 100px; 
+        }
+
+        .slogan {
+            font-size: 18px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="Imagenes/Logo.png"  class="logo">
+        <p class="slogan">Bridging Futures, Creating Opportunities</p>
+    </div>
+    
+    <main>
+        <section class="login-container">
+            <h1>Welcome to EduConnect</h1>
+            <div class="user-profile">
+                <img src="user-avatar.jpg" alt="User's photo">
+                <p>Username</p>
+            </div>
+            <!-- Login form -->
+            <form>
+
+                <label for="email">E-mail:</label>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <label for="remember">Remember me</label>
+                <input type="checkbox" id="remember" name="remember">
+                <button type="submit">Log in</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
