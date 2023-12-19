@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Upload</title>
+    <link rel="stylesheet" href="styles_upload.css"> 
+</head>
+<body>
+    <input type="file" id="file-input" accept=".png, .jpg, .pdf, .doc, .docx">
+    <button onclick="uploadFile()">Upload</button>
+
+    <script src="https://apis.google.com/js/api.js"></script>
+    <script src="upload.js"></script>
+    
+    <div id="upload-status" style="display: none;">
+        <img src="Imagenes/folder.jpg" alt="Upload in progress">
+        <p>Uploading...</p>
+    </div>
+
+    <div id="confirmation-message" style="display: none;">
+        <p>The file upload has been completed successfully!</p>
+        <iframe id="file-preview" width="600" height="400"></iframe>
+    </div>
+</body>
+</html>
