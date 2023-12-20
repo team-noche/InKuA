@@ -1,0 +1,19 @@
+#upload-status {
+    display: none;
+    text-align: center;
+}
+
+#upload-status img {
+    width: 100px;
+    height: 100px;
+}
+
+#confirmation-message {
+    display: none;
+    text-align: center;
+}
+
+#file-preview {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}

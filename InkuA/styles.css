@@ -1,42 +1,35 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f8f9fa; 
+}
 
 .header {
-    text-align: left;
-    padding: 15px;
-    background-color: #012116;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    background-color: #036038;
+    color: #fff; 
 }
 
-.header-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    z-index: -1;
-}
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 20px;
-    padding: 0;
-    text-align: center;
-    background-color: #02432d;
+.logo {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 3px 5px rgba(254, 254, 254, 0.971);
 }
 
 .slogan {
-    color: #fff;
-    font-size: 24px;
-    margin-left: 20px;
+    font-size: 18px;
 }
 
 .navbar {
     display: flex;
     justify-content: space-around;
-    background-color: #040404;
+    background-color: #2e3730;
     padding: 10px;
-    width: 30%;
 }
 
 .navbar a {
@@ -45,45 +38,23 @@ body {
     font-size: 16px;
 }
 
-main {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+.main {
+    padding: 20px;
 }
 
-.section-button {
-    margin: 20px;
+.calendar-section {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff; 
     padding: 20px;
-    background-color: #f8f9fa;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    flex: 1 1 300px;
-}
-
-.section-button:hover {
-    transform: scale(1.05);
-}
-
-.button {
-    background-color: #71adee;
-    border: none;
-    color: #fff;
-    cursor: pointer;
-    display: block;
-    font-size: 14px;
-    margin: 15px auto;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-}
-
-.button:hover {
-    background-color: #0056b3;
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #000302;
+    background-color: #036038;
     color: #fff;
 }
+
